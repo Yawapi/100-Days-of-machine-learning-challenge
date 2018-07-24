@@ -12,5 +12,7 @@ Link: https://www.youtube.com/watch?v=YJyRBPz4CoM&feature=youtu.be
 Day 3. Today I am watching Siraj Raval's video over Capsule Networks, which were first proposed by the amazing Geoffrey Hinton. Thoughts: This is of importance to me as I'm currently working mostly with convolutional neural nets. 
 Link: https://www.youtube.com/watch?v=VKoLGnq15RM
 
+Day 4. The quiz and programming assignment for Neural Networks and Deep Learning on Coursera finally opened today, so I'm working on those. Thoughts: I can't share anything, because it would violate the honor code, but I am enjoying the programming assignment.  
+
 
 
