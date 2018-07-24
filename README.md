@@ -14,5 +14,5 @@ Link: https://www.youtube.com/watch?v=VKoLGnq15RM
 
 Day 4. The quiz and programming assignment for "Neural Networks and Deep Learning" on Coursera finally opened today, so I'm working on those. Thoughts: I can't share anything, because it would violate the honor code, but I am enjoying the programming assignment.  
 
-
+Day 5. Summer in the Lakota Homelands is gathering time - for ceremonies, festivals, and visiting. Tomorrow I am feeding 20+ people in my home, so I have little time for work today or tomorrow. Thoughts: I'm browsing through the Twitter feed for #100DaysOfMLCode and wow! So many inspiring posts. I'll retweet some of my favorites for the next two days. 
 
