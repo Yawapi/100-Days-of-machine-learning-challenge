@@ -16,3 +16,7 @@ Day 4. The quiz and programming assignment for "Neural Networks and Deep Learnin
 
 Day 5. Summer in the Lakota Homelands is gathering time - for ceremonies, festivals, and visiting. Tomorrow I am feeding 20+ people in my home, so I have little time for work today or tomorrow. Thoughts: I'm browsing through the Twitter feed for #100DaysOfMLCode and wow! So many inspiring posts. I'll retweet some of my favorites for the next two days. 
 
+Day 6. Today I watched Siraj Raval's video over loss functions. Thoughts: This is review for me, but nevertheless I always learn something new from Siraj's videos. I found this one to be cogent, entertaining, and engaging as always. 
+Link: https://youtu.be/IVVVjBSk9N0
+
+
