@@ -19,7 +19,7 @@ Day 5. Summer in the Lakota Homelands is gathering time - for ceremonies, festiv
 Day 6. Today I watched Siraj Raval's video over loss functions. Thoughts: This is review for me, but nevertheless I always learn something new from Siraj's videos. I found this one to be cogent, entertaining, and engaging as always. 
 Link: https://youtu.be/IVVVjBSk9N0
 
-Day 7. Watched Siraj Raval's Bitcoin Trading Bot video (from week 3 of his Machine Learning Journey playlist). Thoughts: Finance is outside my scope of knowledge, but time-series modeling is something we do a lot in hydrology so I was able to follow along. 
+Day 7. Watched Siraj Raval's Bitcoin Trading Bot video (from week 3 of his Machine Learning Journey playlist). Thoughts: Finance is outside my scope of knowledge, but time-series modeling is something we use a lot in hydrology so I was able to follow along. 
 Link: https://youtu.be/F2f98pNj99k
 
 
