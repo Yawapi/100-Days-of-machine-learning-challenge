@@ -22,8 +22,9 @@ Link: https://youtu.be/IVVVjBSk9N0
 Day 7. Watched Siraj Raval's Bitcoin Trading Bot video (from week 3 of his Machine Learning Journey playlist). Thoughts: Finance is outside my scope of knowledge, but time-series modeling is something we use a lot in hydrology so I was able to follow along. 
 Link: https://youtu.be/F2f98pNj99k
 
-Day 8. Link: Still busy with summer obligations, so I've been watching videos. Today was Siraj Raval's Serverless Computing with Google Cloud. Thoughts: My mind is popping with the possibilities.  
-https://youtu.be/tdhVXKf_WSs
+Day 8. Link: Still busy with summer obligations, so I've been watching videos. Today was Siraj Raval's Serverless Computing with Google Cloud and AWS Training video. Thoughts: My mind is popping with the possibilities. I'm going to spend more time going over this useful material.  
+Links: https://youtu.be/tdhVXKf_WSs
+       https://youtu.be/zkzED9HvMG0
 
 
 
