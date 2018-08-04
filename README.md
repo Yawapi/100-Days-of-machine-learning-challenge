@@ -28,3 +28,7 @@ Links: https://youtu.be/tdhVXKf_WSs
 
 Day 9. Today I read "Connecting the Dots for a Deep Learning App" - a blog post by Janardhan Shetty. Thoughts: I enjoyed this blog post, particularly because I am interested in different ways of using CNNs (relevant to my dissertation). 
 Link: https://towardsdatascience.com/connecting-the-dots-for-a-deep-learning-app-324e4648720a
+
+Day 10. Finishing up week 3 of the first course in the Deep Learning Specialization on Coursera ("Neural Networks and Deep Learning"). Thoughts: I'm truly enjoying this course by Andrew Ng. His explanations are very thorough and I'm learning a lot. 
+Link: https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
+
