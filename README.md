@@ -32,3 +32,4 @@ Link: https://towardsdatascience.com/connecting-the-dots-for-a-deep-learning-app
 Day 10. Finishing up week 3 of the first course in the Deep Learning Specialization on Coursera ("Neural Networks and Deep Learning"). Thoughts: Truly enjoying this course by Andrew Ng. His explanations are very thorough and I'm learning a lot. 
 Link: https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
 
+Day 11. Started week 4 of Andrew Ng's "Neural Networks and Deep Learning" course. Thoughts: I have learned so much from the two courses I've worked through as part of the Deep Learning specialization. Looking forward to working through them all. 
