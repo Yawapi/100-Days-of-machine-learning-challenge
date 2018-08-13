@@ -35,3 +35,6 @@ Link: https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
 Day 11. Started week 4 of Andrew Ng's "Neural Networks and Deep Learning" course. Thoughts: I have learned so much from the two courses I've worked through as part of the Deep Learning specialization. Looking forward to working through them all. 
 
 Day 12. Still working on week 4 of Andrew Ng's "Neural Networks and Deep Learning" course- quiz and programming exercises. Thoughts: Great course - definitely recommend. 
+
+Day 13. Finished Andrew Ng's "Neural Networks and Deep Learning" course with a grade of 92.8%. Thoughts: I put a lot of effort into this course and it was worth every bit. If you want to dig deep into the math and logic behind the code, this is a great resource.
+
