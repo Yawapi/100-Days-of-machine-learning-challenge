@@ -41,3 +41,6 @@ Day 13. Finished Andrew Ng's "Neural Networks and Deep Learning" course with a g
 Day 14. Finished week 5 of Siraj Raval's "Machine Learning" syllabus. Thoughts: I appreciate Siraj's ability to organize and communicate machine learning and deep learning concepts. This syllabus has something for learners at every level. 
 Link: https://github.com/llSourcell/Machine_Learning_Journey
 
+Day 15. I am happy to have been chosen to represent the School of AI in my hometown. Join our local chapter to learn more (https://www.facebook.com/groups/1850396115020260/) or visit the School of AI online (for chapters worldwide). 
+Link: https://www.theschool.ai
+
