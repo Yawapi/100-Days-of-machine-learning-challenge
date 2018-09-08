@@ -46,3 +46,6 @@ Link: https://www.theschool.ai
 
 Day 16. I am working through week 1 of Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization. Thoughts: This is the second course in Coursera's Deep Learning specialization, taught by Dr. Andrew Ng. These are rigorous courses over the math and programming behind deep learning. Highly recommended. 
 Link: https://bit.ly/2LPvGE0
+
+Day 17. Working on week 2 of Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization by Andrew Ng on Coursera. Thoughts: This week is over various optimization techniques, which is useful. 
+Link: https://bit.ly/2LPvGE0
