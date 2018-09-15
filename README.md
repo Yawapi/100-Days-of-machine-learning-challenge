@@ -49,3 +49,7 @@ Link: https://bit.ly/2LPvGE0
 
 Day 17. Working on week 2 of Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization by Andrew Ng on Coursera. Thoughts: This week is over various optimization techniques, which is useful. 
 Link: https://bit.ly/2LPvGE0
+
+Day 18. Finished Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization on Coursera with a grade of 97.6%. Thoughts: I am now 40% through the Deep Learning specialization on Coursera. 
+Link: https://bit.ly/2LPvGE0
+
