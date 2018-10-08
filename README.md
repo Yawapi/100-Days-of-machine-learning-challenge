@@ -56,5 +56,6 @@ Link: https://bit.ly/2LPvGE0
 Day 19. Finished week one of Structuring Machine Learning Projects on Coursera. Thoughts: This is the third course in the Deep Learning specialization. I appreciate listening to and learning from the body of knowledge Dr. Ng has built up over his career. 
 Link: https://bit.ly/2RxLsHU
 
-
+Day 20. Read Simple Beginner’s guide to Reinforcement Learning & its implementation on Analytics Vidya. Thoughts: This is a nicely organized introduction to reinforcement learning using the Keras library.
+Link: https://bit.ly/2k4aInG
 
