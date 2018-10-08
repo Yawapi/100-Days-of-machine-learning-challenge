@@ -53,3 +53,8 @@ Link: https://bit.ly/2LPvGE0
 Day 18. Finished Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization on Coursera with a grade of 97.6%. Thoughts: I am now 40% through the Deep Learning specialization on Coursera. 
 Link: https://bit.ly/2LPvGE0
 
+Day 19. Finished week one of Structuring Machine Learning Projects on Coursera. Thoughts: This is the third course in the Deep Learning specialization. I appreciate listening to and learning from the body of knowledge Dr. Ng has built up over his career. 
+Link: https://bit.ly/2RxLsHU
+
+
+
