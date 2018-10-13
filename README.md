@@ -62,5 +62,6 @@ Link: https://bit.ly/2k4aInG
 Day 21. Finished week two of Structuring Machine Learning Projects on Coursera. Thoughts: This is the third course in the Deep Learning specialization. There is a lot of excellent information this week, so I went through the material a few times. 
 Link: https://bit.ly/2RxLsHU
 
+Day 22. Finished Structuring Machine Learning Projects on Coursera. Thoughts: This is the third course in the Deep Learning specialization. There is a lot of excellent information in this course. Link: https://bit.ly/2RxLsHU
 
 
