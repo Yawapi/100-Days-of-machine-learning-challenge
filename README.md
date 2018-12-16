@@ -64,4 +64,9 @@ Link: https://bit.ly/2RxLsHU
 
 Day 22. Finished Structuring Machine Learning Projects on Coursera. Thoughts: This is the third course in the Deep Learning specialization. There is a lot of excellent information in this course. Link: https://bit.ly/2RxLsHU
 
+Day 23. Completed Week 1 of Convolutional Neural Networks on Coursera. Thoughts: It took some time to understand shape changes due to convolution - definitely worthwhile to watch the videos a couple times. Link: https://bit.ly/2symYmQ
+
+Day 24. 
+
+
 
