@@ -66,7 +66,8 @@ Day 22. Finished Structuring Machine Learning Projects on Coursera. Thoughts: Th
 
 Day 23. Completed Week 1 of Convolutional Neural Networks on Coursera. Thoughts: It took some time to understand shape changes due to convolution - definitely worthwhile to watch the videos a couple times. Link: https://bit.ly/2symYmQ
 
-Day 24. 
+Day 24. Working on week 2 of Convolutional Neural Networks on Coursera. Thoughts: Inception network architecture is fascinating. I'm also glad to be using Keras for the programming exercises. Link: https://bit.ly/2symYmQ
+
 
 
 
