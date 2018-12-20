@@ -68,6 +68,6 @@ Day 23. Completed Week 1 of Convolutional Neural Networks on Coursera. Thoughts:
 
 Day 24. Working on week 2 of Convolutional Neural Networks on Coursera. Thoughts: Inception network architecture is fascinating. I'm also glad to be using Keras for the programming exercises. Link: https://bit.ly/2symYmQ
 
-
+Day 25. Completed week 3 of Convolutional Neural Networks on Coursera. Thoughts: Programming exercise using TensorFlow this week. Link: https://bit.ly/2symYmQ
 
 
