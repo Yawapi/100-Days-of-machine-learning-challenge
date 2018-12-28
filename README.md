@@ -70,4 +70,6 @@ Day 24. Working on week 2 of Convolutional Neural Networks on Coursera. Thoughts
 
 Day 25. Completed week 3 of Convolutional Neural Networks on Coursera. Thoughts: Programming exercise using TensorFlow this week. Link: https://bit.ly/2symYmQ
 
+Day 26. Completed week 4 of Convolutional Neural Networks on Coursera. Thoughts: Face recognition tasks are a lot of fun!
+Link: https://bit.ly/2symYmQ
 
