@@ -73,4 +73,4 @@ Day 25. Completed week 3 of Convolutional Neural Networks on Coursera. Thoughts:
 Day 26. Completed week 4 of Convolutional Neural Networks on Coursera. Thoughts: Face recognition tasks are a lot of fun!
 Link: https://bit.ly/2symYmQ
 
-Day 26. Completed Convolutional Neural Networks on Coursera with a grade of 96.7%. Thoughts: My favorite course in the Deep Learning specialization so far Link: https://bit.ly/2symYmQ
+Day 27. Completed Convolutional Neural Networks on Coursera with a grade of 96.7%. Thoughts: My favorite course in the Deep Learning specialization so far Link: https://bit.ly/2symYmQ
