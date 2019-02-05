@@ -87,7 +87,7 @@ Day 32. Started week 3 of Sequence Models on Coursera. Thoughts: . Link: https:/
 
 Day 33. Finished week 3 of Sequence Models on Coursera. Thoughts: . Link: https://bit.ly/2Twm0TO
 
-Day 34. Finished Sequence Models on Coursera. Thoughts: . Link: https://bit.ly/2Twm0TO
+Day 34. Finished Sequence Models on Coursera with a grade of %. Thoughts: . Link: https://bit.ly/2Twm0TO
 
 Day 35. Finished the Deep Learning Specialization on Coursera. Thoughts: . Link: https://bit.ly/2Twm0TO
 
