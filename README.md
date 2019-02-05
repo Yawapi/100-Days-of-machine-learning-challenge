@@ -74,3 +74,20 @@ Day 26. Completed week 4 of Convolutional Neural Networks on Coursera. Thoughts:
 Link: https://bit.ly/2symYmQ
 
 Day 27. Completed Convolutional Neural Networks on Coursera with a grade of 96.7%. Thoughts: My favorite course in the Deep Learning specialization so far Link: https://bit.ly/2symYmQ
+
+Day 28. Began week 1 of Sequence Models on Coursera. Thoughts: This is the final course in the Deep Learning specialization - I'm excited! Link: https://bit.ly/2Twm0TO
+
+Day 29. Finished week 1 of Sequence Models on Coursera. Thoughts: Recurrent neural networks are a bit more opaque compared to some other types. Link: https://bit.ly/2Twm0TO
+
+Day 30. Started week 2 of Sequence Models on Coursera. Thoughts: . Link: https://bit.ly/2Twm0TO
+
+Day 31. Finished week 2 of Sequence Models on Coursera. Thoughts: . Link: https://bit.ly/2Twm0TO
+
+Day 32. Started week 3 of Sequence Models on Coursera. Thoughts: . Link: https://bit.ly/2Twm0TO
+
+Day 33. Finished week 3 of Sequence Models on Coursera. Thoughts: . Link: https://bit.ly/2Twm0TO
+
+Day 34. Finished Sequence Models on Coursera. Thoughts: . Link: https://bit.ly/2Twm0TO
+
+Day 35. Finished the Deep Learning Specialization on Coursera. Thoughts: . Link: https://bit.ly/2Twm0TO
+
