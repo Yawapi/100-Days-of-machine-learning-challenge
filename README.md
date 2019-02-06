@@ -79,15 +79,15 @@ Day 28. Began week 1 of Sequence Models on Coursera. Thoughts: This is the final
 
 Day 29. Finished week 1 of Sequence Models on Coursera. Thoughts: Recurrent neural networks are a bit more opaque compared to some other types. Link: https://bit.ly/2Twm0TO
 
-Day 30. Started week 2 of Sequence Models on Coursera. Thoughts: . Link: https://bit.ly/2Twm0TO
+Day 30. Started week 2 of Sequence Models on Coursera. Thoughts: I'm not sure I'll be using RNNs in the immediate future, but I'm happy to be learning more about them. Link: https://bit.ly/2Twm0TO
 
-Day 31. Finished week 2 of Sequence Models on Coursera. Thoughts: . Link: https://bit.ly/2Twm0TO
+Day 31. Finished week 2 of Sequence Models on Coursera. Thoughts: A very challenging week of lectures and assignments. Link: https://bit.ly/2Twm0TO
 
-Day 32. Started week 3 of Sequence Models on Coursera. Thoughts: . Link: https://bit.ly/2Twm0TO
+Day 32. Started week 3 of Sequence Models on Coursera. Thoughts: This looks like a fun week as far as programming assignments. Link: https://bit.ly/2Twm0TO
 
-Day 33. Finished week 3 of Sequence Models on Coursera. Thoughts: . Link: https://bit.ly/2Twm0TO
+Day 33. Finished week 3 of Sequence Models on Coursera. Thoughts: The Trigger Word Detection assignment is one of my favorites of the entire specialization. Link: https://bit.ly/2Twm0TO
 
-Day 34. Finished Sequence Models on Coursera with a grade of %. Thoughts: . Link: https://bit.ly/2Twm0TO
+Day 34. Finished Sequence Models on Coursera with a grade of %. Thoughts: This was, for me anyway, the most challenging course in the series, but I feel like a learned a lot. Link: https://bit.ly/2Twm0TO
 
-Day 35. Finished the Deep Learning Specialization on Coursera. Thoughts: . Link: https://bit.ly/2Twm0TO
+Day 35. Finished the Deep Learning Specialization on Coursera. Thoughts: I'm incredibly grateful to Dr. Andrew Ng for producing the courses in the Deep Learning Specialization. He's a gifted thinker, educator, and communicator. Highly recommend. Link: https://bit.ly/2Twm0TO
 
