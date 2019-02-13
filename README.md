@@ -87,7 +87,7 @@ Day 32. Started week 3 of Sequence Models on Coursera. Thoughts: This looks like
 
 Day 33. Finished week 3 of Sequence Models on Coursera. Thoughts: The Trigger Word Detection assignment is one of my favorites of the entire specialization. Link: https://bit.ly/2Twm0TO
 
-Day 34. Finished Sequence Models on Coursera with a grade of 98.3%. Thoughts: This was, for me anyway, the most challenging course in the serie. I had to work hard to grasp some of the concepts, but I feel like a learned a lot. Link: https://bit.ly/2Twm0TO
+Day 34. Finished Sequence Models on Coursera with a grade of 98.3%. Thoughts: This was, for me anyway, the most challenging course in the series. I had to work hard to grasp some of the concepts, but I feel like I learned a lot. Link: https://bit.ly/2Twm0TO
 
 Day 35. Finished the Deep Learning Specialization on Coursera. Thoughts: I'm incredibly grateful to Dr. Andrew Ng for producing the courses in the Deep Learning Specialization. He's a gifted thinker, educator, and communicator. Highly recommend. Link: https://bit.ly/2Twm0TO
 
