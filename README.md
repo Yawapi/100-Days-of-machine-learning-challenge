@@ -91,8 +91,8 @@ Day 34. Finished Sequence Models on Coursera with a grade of 98.3%. Thoughts: Th
 
 Day 35. Finished the Deep Learning Specialization on Coursera. Thoughts: I'm incredibly grateful to Dr. Andrew Ng for producing the courses in the Deep Learning Specialization. He's a gifted thinker, educator, and communicator. Highly recommend. Link: https://bit.ly/2Twm0TO
 
-Day 36. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
-Link:
+Day 36. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: It's pretty basic so far, good for beginners, well-organized.
+Link: https://bit.ly/2BEW15y
 
 Day 37. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
 Link:
