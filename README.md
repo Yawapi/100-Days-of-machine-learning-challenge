@@ -91,3 +91,48 @@ Day 34. Finished Sequence Models on Coursera with a grade of 98.3%. Thoughts: Th
 
 Day 35. Finished the Deep Learning Specialization on Coursera. Thoughts: I'm incredibly grateful to Dr. Andrew Ng for producing the courses in the Deep Learning Specialization. He's a gifted thinker, educator, and communicator. Highly recommend. Link: https://bit.ly/2Twm0TO
 
+Day 36. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Link:
+
+Day 37. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Link:
+
+Day 38. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Link:
+
+Day 39. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Link:
+
+Day 40. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Link:
+
+Day 41. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Link:
+
+Day 42. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Link:
+
+Day 43. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Link:
+
+Day 44. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Link:
+
+Day 45. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Link:
+
+Day 46. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Link:
+
+Day 47. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Link:
+
+Day 48. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Link:
+
+Day 49. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Link:
+
+Day 50. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Link:
+
