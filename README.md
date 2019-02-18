@@ -94,17 +94,17 @@ Day 35. Finished the Deep Learning Specialization on Coursera. Thoughts: I'm inc
 Day 36. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: Straightforward, good for beginners, well-organized.
 Link: https://bit.ly/2BEW15y
 
-Day 37. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Day 37. Working on the Linux project on DataCamp. Thoughts: A quick, easy project in Python.
+Link: https://www.datacamp.com/projects/111
+
+Day 38. Working on  Thoughts: 
 Link:
 
-Day 38. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Day 39. Working on . Thoughts: 
 Link:
 
-Day 39. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
-Link:
-
-Day 40. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
-Link:
+Day 40. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: I read through the regression and regularization sections.
+Link: https://bit.ly/2BEW15y
 
 Day 41. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
 Link:
