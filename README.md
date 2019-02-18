@@ -106,33 +106,33 @@ Link:
 Day 40. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: I read through the regression and regularization sections.
 Link: https://bit.ly/2BEW15y
 
-Day 41. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Day 41. Working on . Thoughts: 
 Link:
 
-Day 42. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Day 42. Working on . Thoughts: 
 Link:
 
-Day 43. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Day 43. Working on . Thoughts: 
 Link:
 
-Day 44. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Day 44. Working on . Thoughts: 
 Link:
 
-Day 45. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Day 45. Working on . Thoughts: 
 Link:
 
-Day 46. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Day 46. Working on . Thoughts: 
 Link:
 
-Day 47. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Day 47. Working on . Thoughts: 
 Link:
 
-Day 48. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Day 48. Working on . Thoughts: 
 Link:
 
-Day 49. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Day 49. Working on . Thoughts: 
 Link:
 
-Day 50. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: 
+Day 50. Working on . Thoughts: 
 Link:
 
