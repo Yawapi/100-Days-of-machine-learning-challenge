@@ -97,8 +97,8 @@ Link: https://bit.ly/2BEW15y
 Day 37. Working on the Linux project on DataCamp. Thoughts: A quick, easy project in Python.
 Link: https://www.datacamp.com/projects/111
 
-Day 38. Working on  Thoughts: 
-Link:
+Day 38. Working on GoT network analysis project on DataCamp. Thoughts: A fun project using networkx and pandas.
+Link: https://www.datacamp.com/projects/76
 
 Day 39. Working on . Thoughts: 
 Link:
