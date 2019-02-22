@@ -100,8 +100,8 @@ Link: https://www.datacamp.com/projects/111
 Day 38. Working on GoT network analysis project on DataCamp. Thoughts: A fun project using networkx and pandas.
 Link: https://www.datacamp.com/projects/76
 
-Day 39. Working on . Thoughts: 
-Link:
+Day 39. Completed the Word Frequency in Moby Dick project on Data Camp. Thoughts: A quick, easy project in Python.
+Link: https://www.datacamp.com/projects/38
 
 Day 40. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: I read through the regression and regularization sections.
 Link: https://bit.ly/2BEW15y
