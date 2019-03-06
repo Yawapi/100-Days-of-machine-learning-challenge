@@ -106,11 +106,11 @@ Link: https://www.datacamp.com/projects/38
 Day 40. Working on AnalyticsVidhya's "Comprehensive Learning Path for Deep Learning in 2019". Thoughts: I read through the regression and regularization sections.
 Link: https://bit.ly/2BEW15y
 
-Day 41. Working on . Thoughts: 
-Link:
+Day 41. Completed Week 1 of Data Lit on School of AI. Thoughts: Nice, entertaining introduction course. 
+Link: https://bit.ly/2IWPbyn
 
-Day 42. Working on . Thoughts: 
-Link:
+Day 42. Completed Week 2 of Data Lit on School of AI. Thoughts: . I've been in academia for years and this week has one of the most accessible introductions to statistical concepts that I've seen.
+Link: https://bit.ly/2IWPbyn
 
 Day 43. Working on . Thoughts: 
 Link:
