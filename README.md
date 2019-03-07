@@ -132,11 +132,10 @@ Day 48. Completed 'Naïve Bees: Image Loading and Processing' project on DataCam
 Day 49. Completed 'Naïve Bees: Predict Species from Images' project on DataCamp. Thoughts: Enjoyable project training a CNN. 
 Link: https://projects.datacamp.com/projects/412
 
-Day 50. Working on . Thoughts: 
-Link:
+Day 50. Completed 'ASL Recognition with Deep Learning' project on DataCamp. Thoughts: 
+Link: https://www.datacamp.com/projects/509
 
-Day 51. Working on . Thoughts: 
-Link:
+Day 51. Completed Natural Language Processing Fundamentals in Python course on DataCamp. Thoughts: I've taken other courses on this topic, but none were as clear and engaging as this one is. Link: https://bit.ly/2NRIzjS
 
 Day 52. Working on . Thoughts: 
 Link:
