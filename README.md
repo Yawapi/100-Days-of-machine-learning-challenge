@@ -129,7 +129,7 @@ Link: https://www.datacamp.com/projects/250
 
 Day 48. Completed 'Naïve Bees: Image Loading and Processing' project on DataCamp. Thoughts: Enjoyable project creating an image processing pipeline. Link: https://projects.datacamp.com/projects/374
 
-Day 49. Completed 'Naïve Bees: Predict Species from Images' project on DataCamp. Thoughts: Enjoyable project . 
+Day 49. Completed 'Naïve Bees: Predict Species from Images' project on DataCamp. Thoughts: Enjoyable project training a CNN. 
 Link: https://projects.datacamp.com/projects/412
 
 Day 50. Working on . Thoughts: 
