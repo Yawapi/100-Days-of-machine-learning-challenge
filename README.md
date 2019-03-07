@@ -112,20 +112,20 @@ Link: https://bit.ly/2IWPbyn
 Day 42. Completed Week 2 of Data Lit on School of AI. Thoughts: . I've been in academia for years and this week has one of the most accessible introductions to statistical concepts that I've seen.
 Link: https://bit.ly/2IWPbyn
 
-Day 43. Completed Naïve Bees: Deep Learning with Images project on DataCamp. Thoughts: A fun little project building a CNN with Keras.
+Day 43. Completed 'Naïve Bees: Deep Learning with Images' project on DataCamp. Thoughts: A fun little project building a CNN with Keras.
 Link: https://projects.datacamp.com/projects/555
 
-Day 44. Working on . Thoughts: 
-Link:
+Day 44. Completed 'Exploring 67 years of LEGO' project on DataCamp. Thoughts: Very quick, easy project.
+Link: https://www.datacamp.com/projects/10
 
-Day 45. Working on . Thoughts: 
-Link:
+Day 45. Completed 'Dr. Semmelweis and the Discovery of Handwashing' project on DataCamp. Thoughts: Fascinating Bootstrap analysis.
+Link: https://www.datacamp.com/projects/20
 
-Day 46. Working on . Thoughts: 
-Link:
+Day 46. Completed 'The Hottest Topics in Machine Learning' project on DataCamp. Thoughts: Natural Language Processing using sklearn.
+Link: https://www.datacamp.com/projects/158
 
-Day 47. Working on . Thoughts: 
-Link:
+Day 47. Completed 'A New Era of Data Analysis in Baseball' project on DataCamp. Thoughts: Yankees and Statcast - awesome!
+Link: https://www.datacamp.com/projects/250
 
 Day 48. Working on . Thoughts: 
 Link:
