@@ -127,11 +127,10 @@ Link: https://www.datacamp.com/projects/158
 Day 47. Completed 'A New Era of Data Analysis in Baseball' project on DataCamp. Thoughts: Yankees and Statcast - awesome!
 Link: https://www.datacamp.com/projects/250
 
-Day 48. Completed 'Naïve Bees: Image Loading and Processing' project on DataCamp. Thoughts: More with the previous CNN project.
-Link: https://projects.datacamp.com/projects/374
+Day 48. Completed 'Naïve Bees: Image Loading and Processing' project on DataCamp. Thoughts: Enjoyable project creating an image processing pipeline. Link: https://projects.datacamp.com/projects/374
 
-Day 49. Working on . Thoughts: 
-Link:
+Day 49. Completed 'Naïve Bees: Predict Species from Images' project on DataCamp. Thoughts: Enjoyable project . 
+Link: https://projects.datacamp.com/projects/412
 
 Day 50. Working on . Thoughts: 
 Link:
