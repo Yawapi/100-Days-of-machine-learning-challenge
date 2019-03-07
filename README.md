@@ -112,8 +112,8 @@ Link: https://bit.ly/2IWPbyn
 Day 42. Completed Week 2 of Data Lit on School of AI. Thoughts: . I've been in academia for years and this week has one of the most accessible introductions to statistical concepts that I've seen.
 Link: https://bit.ly/2IWPbyn
 
-Day 43. Working on . Thoughts: 
-Link:
+Day 43. Completed Naïve Bees: Deep Learning with Images project on DataCamp. Thoughts: A fun little project building a CNN with Keras.
+Link: https://projects.datacamp.com/projects/555
 
 Day 44. Working on . Thoughts: 
 Link:
