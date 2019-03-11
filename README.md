@@ -137,8 +137,8 @@ Link: https://www.datacamp.com/projects/509
 
 Day 51. Completed Natural Language Processing Fundamentals in Python course on DataCamp. Thoughts: I've taken other courses on this topic, but none were as clear and engaging as this one is. Link: https://bit.ly/2NRIzjS
 
-Day 52. Working on . Thoughts: 
-Link:
+Day 52. Completed 'Reducing Traffic Mortality in the USA' project on DataCamp. Thoughts: Inconclusive analysis, nice plots in seaborn.
+Link: https://projects.datacamp.com/projects/462
 
 Day 53. Working on . Thoughts: 
 Link:
