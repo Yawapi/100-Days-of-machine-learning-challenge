@@ -140,14 +140,14 @@ Day 51. Completed Natural Language Processing Fundamentals in Python course on D
 Day 52. Completed 'Reducing Traffic Mortality in the USA' project on DataCamp. Thoughts: Inconclusive analysis, nice plots in seaborn.
 Link: https://projects.datacamp.com/projects/462
 
-Day 53. Working on . Thoughts: 
-Link:
+Day 53. Completed 'Do Left-handed People Really Die Young?' project on DataCamp. Thoughts: Bayesian analysis using pandas.
+Link: https://projects.datacamp.com/projects/479 
 
-Day 54. Working on . Thoughts: 
-Link:
+Day 54. Completed '?' project on DataCamp. Thoughts: Bayesian analysis using pandas.
+Link: https://projects.datacamp.com/projects/ 
 
-Day 55. Working on . Thoughts: 
-Link:
+Day 55. Completed '?' project on DataCamp. Thoughts: Bayesian analysis using pandas.
+Link: https://projects.datacamp.com/projects/
 
 Day 56. Working on . Thoughts: 
 Link:
