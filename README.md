@@ -132,7 +132,7 @@ Day 48. Completed 'Naïve Bees: Image Loading and Processing' project on DataCam
 Day 49. Completed 'Naïve Bees: Predict Species from Images' project on DataCamp. Thoughts: Enjoyable project training a CNN. 
 Link: https://projects.datacamp.com/projects/412
 
-Day 50. Completed 'ASL Recognition with Deep Learning' project on DataCamp. Thoughts: 
+Day 50. Completed 'ASL Recognition with Deep Learning' project on DataCamp. Thoughts: Nice CNN project.
 Link: https://www.datacamp.com/projects/509
 
 Day 51. Completed Natural Language Processing Fundamentals in Python course on DataCamp. Thoughts: I've taken other courses on this topic, but none were as clear and engaging as this one is. Link: https://bit.ly/2NRIzjS
@@ -143,10 +143,10 @@ Link: https://projects.datacamp.com/projects/462
 Day 53. Completed 'Do Left-handed People Really Die Young?' project on DataCamp. Thoughts: Bayesian analysis using pandas.
 Link: https://projects.datacamp.com/projects/479 
 
-Day 54. Completed '?' project on DataCamp. Thoughts: Bayesian analysis using pandas.
-Link: https://projects.datacamp.com/projects/ 
+Day 54. Completed 'A Visual History of Nobel Prize Winners' project on DataCamp. Thoughts: Could have been improved by normalizing data.
+Link: https://projects.datacamp.com/projects/441 
 
-Day 55. Completed '?' project on DataCamp. Thoughts: Bayesian analysis using pandas.
+Day 55. Completed '?' project on DataCamp. Thoughts: 
 Link: https://projects.datacamp.com/projects/
 
 Day 56. Working on . Thoughts: 
