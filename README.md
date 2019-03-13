@@ -146,8 +146,8 @@ Link: https://projects.datacamp.com/projects/479
 Day 54. Completed 'A Visual History of Nobel Prize Winners' project on DataCamp. Thoughts: Could have been improved by normalizing data.
 Link: https://projects.datacamp.com/projects/441 
 
-Day 55. Completed '?' project on DataCamp. Thoughts: 
-Link: https://projects.datacamp.com/projects/
+Day 55. Completed 'The GitHub History of the Scala Language' project on DataCamp. Thoughts: Lots of data manipulation using pandas.
+Link: https://projects.datacamp.com/projects/163
 
 Day 56. Working on . Thoughts: 
 Link:
