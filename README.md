@@ -165,8 +165,8 @@ Day 60. Completed 'Bad passwords and the NIST guidelines' project on DataCamp. T
 Day 61. Completed 'Classify Song Genres from Audio Data' project on DataCamp. Thoughts: Logistic regression, sklearn.
 Link: https://projects.datacamp.com/projects/449
 
-Day 62. Completed '' project on DataCamp. Thoughts: 
-Link: https://projects.datacamp.com/projects/
+Day 62. Completed 'Generating Keywords for Google Ads' project on DataCamp. Thoughts: Pretty basic and a bit buggy.
+Link: https://projects.datacamp.com/projects/400
 
 Day 63.
 
