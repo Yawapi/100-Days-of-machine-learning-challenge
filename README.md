@@ -154,18 +154,20 @@ Day 56. Completed Building Chatbots in Python tutorial. Thoughts: Fun and inform
 Day 57. Completed 'Who Is Drunk and When in Ames, Iowa?' project on DataCamp. Thoughts: 
 Link: https://projects.datacamp.com/projects/475
 
-Day 58. Completed Week 3 of Data Lit on School of AI. Thoughts: .
+Day 58. Completed Week 3 of Data Lit on School of AI. Thoughts: A wealth of information about data visualization.
 Link: https://bit.ly/2IWPbyn
 
 Day 59. Working on Week 4 of Data Lit on School of AI . Thoughts: 
 Link: https://bit.ly/2IWPbyn
 
-Day 60. Completed '' project on DataCamp. Thoughts: Lots of data manipulation using pandas.
+Day 60. Completed 'Bad passwords and the NIST guidelines' project on DataCamp. Thoughts: 
+Link: https://projects.datacamp.com/projects/141
+
+Day 61. Completed '' project on DataCamp. Thoughts: 
 Link: https://projects.datacamp.com/projects/
 
-Day 61.
-
-Day 62.
+Day 62. Completed '' project on DataCamp. Thoughts: 
+Link: https://projects.datacamp.com/projects/
 
 Day 63.
 
