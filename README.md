@@ -149,8 +149,7 @@ Link: https://projects.datacamp.com/projects/441
 Day 55. Completed 'The GitHub History of the Scala Language' project on DataCamp. Thoughts: Lots of data manipulation using pandas.
 Link: https://projects.datacamp.com/projects/163
 
-Day 56. Working on . Thoughts: 
-Link:
+Day 56. Completed Building Chatbots in Python tutorial. Thoughts: Fun and informative - from early implementations up through trained neural networks. Link: https://www.datacamp.com/courses/building-chatbots-in-python
 
 Day 57. Working on . Thoughts: 
 Link:
