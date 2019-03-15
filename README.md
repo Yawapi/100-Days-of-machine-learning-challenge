@@ -151,20 +151,19 @@ Link: https://projects.datacamp.com/projects/163
 
 Day 56. Completed Building Chatbots in Python tutorial. Thoughts: Fun and informative - from early implementations up through trained neural networks. Link: https://www.datacamp.com/courses/building-chatbots-in-python
 
-Day 57. Completed 'Who Is Drunk and When in Ames, Iowa?' project on DataCamp. Thoughts: 
+Day 57. Completed 'Who Is Drunk and When in Ames, Iowa?' project on DataCamp. Thoughts: Easy plotting project.
 Link: https://projects.datacamp.com/projects/475
 
 Day 58. Completed Week 3 of Data Lit on School of AI. Thoughts: A wealth of information about data visualization.
 Link: https://bit.ly/2IWPbyn
 
-Day 59. Working on Week 4 of Data Lit on School of AI . Thoughts: 
+Day 59. Working on Week 4 of Data Lit on School of AI . Thoughts: .
 Link: https://bit.ly/2IWPbyn
 
-Day 60. Completed 'Bad passwords and the NIST guidelines' project on DataCamp. Thoughts: 
-Link: https://projects.datacamp.com/projects/141
+Day 60. Completed 'Bad passwords and the NIST guidelines' project on DataCamp. Thoughts: Using regex for pull bad passwords out of a pandas dataframe. Link: https://projects.datacamp.com/projects/141
 
-Day 61. Completed '' project on DataCamp. Thoughts: 
-Link: https://projects.datacamp.com/projects/
+Day 61. Completed 'Classify Song Genres from Audio Data' project on DataCamp. Thoughts: 
+Link: https://projects.datacamp.com/projects/449
 
 Day 62. Completed '' project on DataCamp. Thoughts: 
 Link: https://projects.datacamp.com/projects/
