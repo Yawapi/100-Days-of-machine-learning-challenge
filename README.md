@@ -157,12 +157,12 @@ Link: https://projects.datacamp.com/projects/475
 Day 58. Completed Week 3 of Data Lit on School of AI. Thoughts: A wealth of information about data visualization.
 Link: https://bit.ly/2IWPbyn
 
-Day 59. Working on Week 4 of Data Lit on School of AI . Thoughts: .
+Day 59. Working on Week 4 of Data Lit on School of AI. Thoughts: .
 Link: https://bit.ly/2IWPbyn
 
 Day 60. Completed 'Bad passwords and the NIST guidelines' project on DataCamp. Thoughts: Using regex for pull bad passwords out of a pandas dataframe. Link: https://projects.datacamp.com/projects/141
 
-Day 61. Completed 'Classify Song Genres from Audio Data' project on DataCamp. Thoughts: 
+Day 61. Completed 'Classify Song Genres from Audio Data' project on DataCamp. Thoughts: Logistic regression, sklearn.
 Link: https://projects.datacamp.com/projects/449
 
 Day 62. Completed '' project on DataCamp. Thoughts: 
