@@ -171,11 +171,14 @@ Link: https://projects.datacamp.com/projects/400
 Day 63. Completed 'Recreating John Snow's Ghost Map' project on DataCamp. Thoughts: Great geospatial project.
 Link: https://projects.datacamp.com/projects/132
 
-Day 64. 
+Day 64. Completed 'Mobile Games A/B Testing with Cookie Cats' project on DataCamp. Thoughts: Basic and straightforward.
+Link: https://projects.datacamp.com/projects/184
 
-Day 65.
+Day 65. Completed '' project on DataCamp. Thoughts: 
+Link: https://projects.datacamp.com/projects/
 
-Day 66.
+Day 66. Completed '' project on DataCamp. Thoughts: 
+Link: https://projects.datacamp.com/projects/
 
 Day 67.
 
