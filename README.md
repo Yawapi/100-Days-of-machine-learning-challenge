@@ -168,7 +168,8 @@ Link: https://projects.datacamp.com/projects/449
 Day 62. Completed 'Generating Keywords for Google Ads' project on DataCamp. Thoughts: Pretty basic and a bit buggy.
 Link: https://projects.datacamp.com/projects/400
 
-Day 63.
+Day 63. Completed 'Recreating John Snow's Ghost Map' project on DataCamp. Thoughts: Great geospatial project.
+Link: https://projects.datacamp.com/projects/132
 
 Day 64. 
 
