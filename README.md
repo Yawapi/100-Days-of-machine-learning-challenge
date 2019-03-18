@@ -174,8 +174,8 @@ Link: https://projects.datacamp.com/projects/132
 Day 64. Completed 'Mobile Games A/B Testing with Cookie Cats' project on DataCamp. Thoughts: Basic and straightforward.
 Link: https://projects.datacamp.com/projects/184
 
-Day 65. Completed '' project on DataCamp. Thoughts: 
-Link: https://projects.datacamp.com/projects/
+Day 65. Completed 'Name Game: Gender Prediction using Sound' project on DataCamp. Thoughts: 
+Link: https://projects.datacamp.com/projects/97
 
 Day 66. Completed '' project on DataCamp. Thoughts: 
 Link: https://projects.datacamp.com/projects/
