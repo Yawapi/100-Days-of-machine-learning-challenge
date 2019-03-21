@@ -177,8 +177,7 @@ Link: https://projects.datacamp.com/projects/184
 Day 65. Completed 'Name Game: Gender Prediction using Sound' project on DataCamp. Thoughts: Using fuzzy package for sound matching.
 Link: https://projects.datacamp.com/projects/97
 
-Day 66. Completed 'Risk and Returns: The Sharpe Ratio' project on DataCamp. Thoughts: 
-Link: https://projects.datacamp.com/projects/66
+Day 66. Completed 'Risk and Returns: The Sharpe Ratio' project on DataCamp. Thoughts: Using pandas and the Sharpe Ratio to calculate and compare "profitability". Link: https://projects.datacamp.com/projects/66
 
 Day 67.
 
