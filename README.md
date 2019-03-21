@@ -174,11 +174,11 @@ Link: https://projects.datacamp.com/projects/132
 Day 64. Completed 'Mobile Games A/B Testing with Cookie Cats' project on DataCamp. Thoughts: Basic and straightforward.
 Link: https://projects.datacamp.com/projects/184
 
-Day 65. Completed 'Name Game: Gender Prediction using Sound' project on DataCamp. Thoughts: 
+Day 65. Completed 'Name Game: Gender Prediction using Sound' project on DataCamp. Thoughts: Using fuzzy package for sound matching.
 Link: https://projects.datacamp.com/projects/97
 
-Day 66. Completed '' project on DataCamp. Thoughts: 
-Link: https://projects.datacamp.com/projects/
+Day 66. Completed 'Risk and Returns: The Sharpe Ratio' project on DataCamp. Thoughts: 
+Link: https://projects.datacamp.com/projects/66
 
 Day 67.
 
