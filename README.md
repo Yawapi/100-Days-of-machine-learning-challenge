@@ -181,8 +181,7 @@ Day 66. Completed 'Risk and Returns: The Sharpe Ratio' project on DataCamp. Thou
 
 Day 67. Completed 'Introduction to Linear Modeling in Python' on DataCamp. Thoughts: A well-rounded course in linear modeling with good visualizations. Link: https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python
 
-Day 68. Completed 'Exploring the Bitcoin Cryptocurrency Market' project on DataCamp. Thoughts:
-Link: https://projects.datacamp.com/projects/82
+Day 68. Completed 'Exploring the Bitcoin Cryptocurrency Market' project on DataCamp. Thoughts: Interesting little analysis of bitcoin volatility on a particular day. Link: https://projects.datacamp.com/projects/82
 
 Day 69. Completed 'Introduction to Linear Modeling in Python' on DataCamp. Thoughts:
 Link:
