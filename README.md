@@ -157,7 +157,7 @@ Link: https://projects.datacamp.com/projects/475
 Day 58. Completed Week 3 of Data Lit on School of AI. Thoughts: A wealth of information about data visualization.
 Link: https://bit.ly/2IWPbyn
 
-Day 59. Working on Week 4 of Data Lit on School of AI. Thoughts: .
+Day 59. Completed Week 4 of Data Lit on School of AI. Thoughts: Regression! One of my favorite topics. 
 Link: https://bit.ly/2IWPbyn
 
 Day 60. Completed 'Bad passwords and the NIST guidelines' project on DataCamp. Thoughts: Using regex for pull bad passwords out of a pandas dataframe. Link: https://projects.datacamp.com/projects/141
@@ -183,19 +183,19 @@ Day 67. Completed 'Introduction to Linear Modeling in Python' on DataCamp. Thoug
 
 Day 68. Completed 'Exploring the Bitcoin Cryptocurrency Market' project on DataCamp. Thoughts: Interesting little analysis of bitcoin volatility on a particular day. Link: https://projects.datacamp.com/projects/82
 
-Day 69. Completed 'Introduction to Linear Modeling in Python' on DataCamp. Thoughts:
+Day 69. Completed Week 5 of Data Lit on School of AI. Thoughts: A decent overview of supervised learning for beginners.  
+Link: https://bit.ly/2IWPbyn
+
+Day 70. Completed '' on DataCamp. Thoughts:
 Link:
 
-Day 70. Completed 'Introduction to Linear Modeling in Python' on DataCamp. Thoughts:
+Day 71. Completed '' on DataCamp. Thoughts:
 Link:
 
-Day 71. Completed 'Introduction to Linear Modeling in Python' on DataCamp. Thoughts:
+Day 72. Completed '' on DataCamp. Thoughts:
 Link:
 
-Day 72. Completed 'Introduction to Linear Modeling in Python' on DataCamp. Thoughts:
-Link:
-
-Day 73. Completed 'Introduction to Linear Modeling in Python' on DataCamp. Thoughts:
+Day 73. Completed '' on DataCamp. Thoughts:
 Link:
 
 Day 74. Completed 'Introduction to Linear Modeling in Python' on DataCamp. Thoughts:
