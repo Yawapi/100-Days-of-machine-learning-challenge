@@ -186,8 +186,7 @@ Day 68. Completed 'Exploring the Bitcoin Cryptocurrency Market' project on DataC
 Day 69. Completed Week 5 of Data Lit on School of AI. Thoughts: A decent overview of supervised learning for beginners.  
 Link: https://bit.ly/2IWPbyn
 
-Day 70. Completed '' on DataCamp. Thoughts:
-Link:
+Day 70. Completed 'Visualizing Geospatial Data in Python' on DataCamp. Thoughts: My bread and butter. I was looking for a good course for my students, and this one is good! Link: https://bit.ly/2HJZ3ub
 
 Day 71. Completed '' on DataCamp. Thoughts:
 Link:
