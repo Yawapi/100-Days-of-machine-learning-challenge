@@ -187,8 +187,8 @@ Link: https://bit.ly/2IWPbyn
 
 Day 70. Completed 'Visualizing Geospatial Data in Python' on DataCamp. Thoughts: My bread and butter. I was looking for a good course for my students, and this one is good! Link: https://bit.ly/2HJZ3ub
 
-Day 71. Completed '' on DataCamp. Thoughts:
-Link:
+Day 71. Completed 'TV, Halftime Shows, and the Big Game' on DataCamp. Thoughts: Really basic.
+Link: https://www.datacamp.com/projects/684
 
 Day 72. Completed '' on DataCamp. Thoughts:
 Link:
