@@ -190,18 +190,16 @@ Day 70. Completed 'Visualizing Geospatial Data in Python' on DataCamp. Thoughts:
 Day 71. Completed 'TV, Halftime Shows, and the Big Game' on DataCamp. Thoughts: Really basic.
 Link: https://www.datacamp.com/projects/684
 
-Day 72. Completed '' on DataCamp. Thoughts:
-Link:
+Day 72. First day of the Software Engineering Assembly at UCAR/NCAR - Improving Scientific Software. Thoughts: Today's theme is high performance computing - my favorite lecture was by Craig Tierney from NVIDIA over GPU-based clusters for DL. Link: https://sea.ucar.edu/conference/2019
 
-Day 73. Completed '' on DataCamp. Thoughts:
-Link:
+Day 73. Day 2 of the Software Engineering Assembly at UCAR/NCAR - Improving Scientific Software. Thoughts: Today's theme was machine learning - great lectures all day. Link: https://sea.ucar.edu/conference/2019
 
-Day 74. Completed 'Introduction to Linear Modeling in Python' on DataCamp. Thoughts:
-Link:
+Day 74. Day 3 of the Software Engineering Assembly at UCAR/NCAR - Improving Scientific Software. Thoughts: Today's theme was containers for HPC. Link: https://sea.ucar.edu/conference/2019
 
-Day 75.
+Day 75. Day 4 of the Software Engineering Assembly at UCAR/NCAR - Improving Scientific Software. Thoughts: First day of tutorials
+Link: https://sea.ucar.edu/conference/2019
 
-Day 76.
+Day 76. Day 5 of the Software Engineering Assembly at UCAR/NCAR - Improving Scientific Software. Thoughts: Second day of tutorials - I attended .... given by my mentor David John Gagne from NCARs CISL. Link: https://sea.ucar.edu/conference/2019
 
 Day 77.
 
