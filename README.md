@@ -198,7 +198,7 @@ Day 74. Day 3 of the Software Engineering Assembly at UCAR/NCAR - Improving Scie
 
 Day 75. Day 4 of the Software Engineering Assembly at UCAR/NCAR - Improving Scientific Software. Thoughts: Excellent tutorials from Penn State and Steve Farrell at Intel and Link: https://sea.ucar.edu/conference/2019
 
-Day 76. Day 5 of the Software Engineering Assembly at UCAR/NCAR - Improving Scientific Software. Thoughts: Second day of tutorials - I attended .... given by my mentor David John Gagne from NCARs CISL. Link: https://sea.ucar.edu/conference/2019
+Day 76. Day 5 of the Software Engineering Assembly at UCAR/NCAR - Improving Scientific Software. Thoughts: Second day of tutorials - DL for severe weather prediction by my mentor David John Gagne from NCARs CISL. Link: https://sea.ucar.edu/conference/2019
 
 Day 77.
 
