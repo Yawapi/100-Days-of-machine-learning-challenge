@@ -200,9 +200,11 @@ Day 75. Day 4 of the Software Engineering Assembly at UCAR/NCAR - Improving Scie
 
 Day 76. Day 5 of the Software Engineering Assembly at UCAR/NCAR - Improving Scientific Software. Thoughts: Second day of tutorials - DL for severe weather prediction by my mentor David John Gagne from NCARs CISL. Link: https://sea.ucar.edu/conference/2019
 
-Day 77.
+Day 77. Completed "April" reading for deep learning 2019 path on Analytics Vidya. Thoughts: Good written explanations of introductory topics in machine learning. 
+Link: https://bit.ly/2IKN9zC
 
-Day 78.
+Day 78. Completed Week 8 of Data Lit on School of AI. Thoughts: Continuation of unsupervised learning methods. 
+Link: https://bit.ly/2vez7i3
 
 Day 79.
 
