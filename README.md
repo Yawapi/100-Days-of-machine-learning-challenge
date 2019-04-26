@@ -206,7 +206,8 @@ Link: https://bit.ly/2IKN9zC
 Day 78. Completed Week 8 of Data Lit on School of AI. Thoughts: Continuation of unsupervised learning methods. 
 Link: https://bit.ly/2vez7i3
 
-Day 79.
+Day 79. Completed Week 9 of Data Lit on School of AI. Thoughts: GANS and Transformer networks. 
+Link: https://bit.ly/2vez7i3
 
 Day 80.
 
